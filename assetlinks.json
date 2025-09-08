@@ -3,6 +3,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "com.example.demoqrconfig",
-    "sha256_cert_fingerprints": [89:F4:25:D3:A7:5B:D2:2F:8F:83:CA:95:C6:E8:F5:37:2A:81:47:16:B8:04:89:73:CC:A5:03:A7:CE:4C:C3:91]
+    "sha256_cert_fingerprints": ["89:F4:25:D3:A7:5B:D2:2F:8F:83:CA:95:C6:E8:F5:37:2A:81:47:16:B8:04:89:73:CC:A5:03:A7:CE:4C:C3:91"]
   }
 }]
