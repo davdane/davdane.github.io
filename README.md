@@ -1,2 +1,2 @@
 # davdane.github.io
-QR
+Simple page to handle QR code scanning with deeplinks
