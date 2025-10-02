@@ -1,0 +1,9 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appID": "WY86PN4Q7L.it.SI.AppToGo"
+            }
+        ]
+    }
+}
