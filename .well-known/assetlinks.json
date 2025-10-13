@@ -2,10 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.example.demoqrconfig",
-    "sha256_cert_fingerprints": [
-      "89:F4:25:D3:A7:5B:D2:2F:8F:83:CA:95:C6:E8:F5:37:2A:81:47:16:B8:04:89:73:CC:A5:03:A7:CE:4C:C3:91",
-      "75:56:2C:C7:BC:4A:31:E2:0E:D5:33:76:2E:E6:C6:83:9A:29:CF:0D:7B:4F:AB:17:C5:C7:0C:64:B6:2C:BD:58"
-    ]
+    "package_name": "it.sidigitale.apptogo",
+    "sha256_cert_fingerprints":
+    ["75:56:2C:C7:BC:4A:31:E2:0E:D5:33:76:2E:E6:C6:83:9A:29:CF:0D:7B:4F:AB:17:C5:C7:0C:64:B6:2C:BD:58"]
   }
 }]
