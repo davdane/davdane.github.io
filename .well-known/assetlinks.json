@@ -20,4 +20,14 @@
       "75:56:2C:C7:BC:4A:31:E2:0E:D5:33:76:2E:E6:C6:83:9A:29:CF:0D:7B:4F:AB:17:C5:C7:0C:64:B6:2C:BD:58"
     ]
   }
+  },
+  {
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "it.meccatronica.sansolfito",
+    "sha256_cert_fingerprints":
+      ["56:DD:FC:82:D9:A5:26:8E:6B:BE:41:85:D6:E8:7F:41:91:AD:E5:CF:0F:9A:0C:FF:15:3A:DB:5C:39:13:E9:AF"]
+  }
+  }
 }]
